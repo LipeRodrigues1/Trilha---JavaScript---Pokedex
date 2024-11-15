@@ -10,7 +10,7 @@
 .water{
     background-color: #678fee;
 }
-.eletric{
+.electric{
     background-color: #f7cf2e;
 }
 .ice{
@@ -138,6 +138,7 @@
     width: 100%;
     padding: 1rem;
 }
+
 .pagination button{
     background-color: #6c79db;
     border: none;
