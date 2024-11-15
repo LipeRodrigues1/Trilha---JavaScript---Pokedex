@@ -38,8 +38,6 @@ loadMore.addEventListener('click', () => {
         loadPokemonItens(offset,limit)
     }
 
-
-
     
 })
 

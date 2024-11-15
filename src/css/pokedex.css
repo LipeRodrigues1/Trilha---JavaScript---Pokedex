@@ -86,6 +86,7 @@
     border-radius: 1rem ;   
     display: flex;
     flex-direction: column;
+    cursor: pointer;
 }
 
 .pokemon .detail{
@@ -147,4 +148,5 @@
     padding: .25rem .5rem;
     font-size: .625rem;
     margin: .25rem 0;
+    cursor: pointer;
 }
